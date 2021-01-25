@@ -1,0 +1,19 @@
+
+
+*{
+    border: 1px solid black;
+}
+
+header{
+    height: 150px;
+    background-color: hotpink;
+}
+
+main {
+    min-height: 600px;
+    background-color: gray;
+}
+footer{
+    background-color: goldenrod;
+    height: 150px;
+}
